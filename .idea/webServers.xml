@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4c8b74a-2d72-4dd7-91c3-a04ab89e1087" name="Xampp Pesach" url="http://localhost/pesachplanner">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\pesachplanner" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

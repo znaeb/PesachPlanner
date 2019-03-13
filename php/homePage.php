@@ -96,7 +96,7 @@
                                 &nbsp;</td>
                             <td>
                                 <p style="text-align: center;">
-                                    <font face="arial, helvetica, sans-serif"><span style="font-size: 11px;"><b><a href="http://www.rivkey.com/PDFs/YIH%20PP%202018%20updates.pdf" target="_blank"><img alt="" class="cke-resize" src="../images/2018Updates4Thumb.gif" style="width: 250px; height: 193px;"></a></b></span></font></p>
+                                    <span style="font-family: arial, helvetica, sans-serif; "><span style="font-size: 11px;"><b><a href="http://www.rivkey.com/PDFs/YIH%20PP%202018%20updates.pdf" target="_blank"><img alt="" class="cke-resize" src="../images/2018Updates4Thumb.gif" style="width: 250px; height: 193px;"></a></b></span></span></p>
                                 <p style="text-align: center;">
                                     &nbsp;</p>
                                 <p style="text-align: center;">
@@ -176,7 +176,7 @@
                         &nbsp;</p>
                 </div>
                 <p>
-                    <strong class="center" style="font-family: Arial, &#39;Arial Unicode MS&#39;, Helvetica, sans-serif; font-size: 13px;"><img alt="" border="0" src="../images/slin6.gif" style="width: 585px; height: 33px;"></strong></p>
+                    <strong class="center" ><img alt="" border="0" src="../images/slin6.gif" style="width: 585px; height: 33px;"></strong></p>
             </div>
         </div>
     </div>
